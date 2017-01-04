@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '24.0.3'
+    useLibrary  'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "fsegundo.lambda"
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/gson-2.2.4.jar')
+    compile 'com.romainpiel.shimmer:library:1.2.0@aar'
+    // compile files('libs/android-support-v4.jar')
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    //compile 'com.google.firebase:firebase-messaging:9.6.0'
+}
+apply plugin: 'com.google.gms.google-services'

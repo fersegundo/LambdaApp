@@ -1,0 +1,9 @@
+dRqZ5QpeUv8:APA91bFssuyMLqLrBwPyzWKyfepY1W_xxKrOt_P_vsdhA0Rsm2kAs29Zuz6WMT-B-yggKIWbVu7lZWXsSOvbKnrT81QFyrSbBWsfqS39oDgmAmbxEf9hst-ntcXTlunsNUu4biMDRpxi
+fiI4MXvy6kc:APA91bF4fXQCeVdy24RqwF39FA1SNhWaLr2O7RSRM8fQU29vF6eKLPIe5NKptybf765SlsTXRwZZS0veE1SBWpaGd9CpXtTd9QJoimNgy5Ois4nFZ6fSfGlWV3sNBMlz8_Tf8ki1JGH8
+
+API key:
+AIzaSyAPC1PlRCZt0EFo9Hi9wy-9_lL7dmNDtCw
+AIzaSyBDpf-05-vL8xSC5L6mAzHnMEXEQ0jvXSA
+
+https://console.firebase.google.com/project/lambda-c8973/notification
+fernando.segundo@gmail.com

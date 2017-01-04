@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1089289704774",
+    "firebase_url": "https://lambda-c8973.firebaseio.com",
+    "project_id": "lambda-c8973",
+    "storage_bucket": "lambda-c8973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089289704774:android:4a98c75b5a23da5c",
+        "android_client_info": {
+          "package_name": "fsegundo.lambda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089289704774-ol0ahocsjtus1hh1abpt3rj2tc8vb1kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPC1PlRCZt0EFo9Hi9wy-9_lL7dmNDtCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
